@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;netstandard2.1</TargetFrameworks>
+	<PackageId>Arth.Dev.Packages.Multiplayer</PackageId>
+	<Version>0.1.0</Version>
+	<Authors>Arthuro Verissimo</Authors>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Packets\Requests\" />
+    <Folder Include="Packets\Responses\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Arth.Dev.Packages.Multiplayer</id>
+    <version>0.1.83</version>
+    <authors>Arthuro Verissimo</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="5241368918484e83071bcb5fdceeb468775ddb6b" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+</package>

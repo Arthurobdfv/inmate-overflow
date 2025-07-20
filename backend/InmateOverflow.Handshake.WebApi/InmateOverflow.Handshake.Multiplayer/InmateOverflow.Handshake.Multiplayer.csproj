@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;netstandard2.1</TargetFrameworks>
+	<PackageId>Arth.Dev.Packages.Multiplayer</PackageId>
+	<Version>0.1.83</Version>
+	<Authors>Arthuro Verissimo</Authors>
+	<Company>Indie</Company>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InmateOverflow.Handshake.Initiator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

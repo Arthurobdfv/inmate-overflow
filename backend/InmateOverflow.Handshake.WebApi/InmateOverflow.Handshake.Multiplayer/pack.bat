@@ -1,0 +1,1 @@
+dotnet pack -o "C:\Users\arthu\Documents\Development\Packages\Nuget"

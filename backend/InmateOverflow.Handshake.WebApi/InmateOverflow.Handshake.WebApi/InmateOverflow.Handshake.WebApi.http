@@ -1,0 +1,6 @@
+@InmateOverflow.Handshake.WebApi_HostAddress = http://localhost:5265
+
+GET {{InmateOverflow.Handshake.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
